@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 AI Resume Analyzer — Complete Project Guide
 
 > A beginner-friendly AI/ML project for 3rd-year Computer Engineering students applying for AI/ML internships.
@@ -269,3 +270,6 @@ This is a modular architecture where each file has a single responsibility (Sing
 ---
 
 *Made for 3rd-year Computer Engineering students aiming for AI/ML internships.*
+=======
+# RESUME-ANALYZER-
+AI-powered Resume Analyzer using Python and Streamlit
