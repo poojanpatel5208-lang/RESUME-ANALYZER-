@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📄 AI Resume Analyzer — Complete Project Guide
 
 > A beginner-friendly AI/ML project for 3rd-year Computer Engineering students applying for AI/ML internships.
